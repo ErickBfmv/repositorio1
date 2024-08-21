@@ -36,6 +36,7 @@ public class Programa01 {
         System.out.println("Ahorro Mensual: "+ahorrom);
         System.out.println("Ahorro Anual: "+ahorroa);
         //fin de las instrucciones/programa
+        // version 2 push
     }
     
 }
